@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1695417286 source:c:\users\ernesto-pc\desktop\projects\sm4anita\main.c
-	<stdio.h>
-	<stdlib.h>
-	<inttypes.h>
-	<assert.h>
-
